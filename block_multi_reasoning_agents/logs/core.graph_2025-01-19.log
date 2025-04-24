@@ -1,0 +1,45 @@
+2025-01-19 11:24:19 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 11:26:08 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 11:46:05 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 11:50:31 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 12:09:24 - core.graph - ERROR - Error in vision node: Expanders may not be nested inside other expanders.
+2025-01-19 12:18:40 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 12:20:26 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 12:23:46 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 12:48:22 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 12:58:14 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 13:23:03 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 14:27:38 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 14:52:54 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 14:57:04 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 15:00:57 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 15:01:35 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 15:06:58 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 15:10:09 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 15:13:26 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 15:16:42 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 15:18:23 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 16:49:14 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 17:05:45 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 17:24:44 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 18:26:35 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 18:56:10 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 19:00:13 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 19:00:52 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 19:01:28 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 19:04:02 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 19:58:00 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 20:20:23 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 20:55:08 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 21:39:22 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 21:39:42 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 21:43:55 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 21:44:05 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 21:57:40 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 22:27:54 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 22:28:05 - core.graph - ERROR - Error in execution node: 没有找到有效的解决方案
+2025-01-19 22:41:27 - core.graph - ERROR - Error in planning node: 'Stream' object has no attribute 'get'
+2025-01-19 22:58:45 - core.graph - ERROR - Error in execution node: 'squares'
+2025-01-19 23:03:18 - core.graph - ERROR - Error in planning node: string indices must be integers
+2025-01-19 23:29:31 - core.graph - ERROR - Error in planning node: string indices must be integers
+2025-01-19 23:45:39 - core.graph - ERROR - Error in planning node: string indices must be integers

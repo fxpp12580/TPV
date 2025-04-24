@@ -1,0 +1,44 @@
+2025-01-17 16:37:24 - core.graph - ERROR - Error in planning node: list indices must be integers or slices, not str
+2025-01-17 16:54:42 - core.graph - ERROR - Error in planning node: list indices must be integers or slices, not str
+2025-01-17 16:54:48 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 17:38:21 - core.graph - ERROR - Error in planning node: list indices must be integers or slices, not str
+2025-01-17 17:38:23 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 17:38:57 - core.graph - ERROR - Error in planning node: list indices must be integers or slices, not str
+2025-01-17 17:39:06 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 17:39:31 - core.graph - ERROR - Error in planning node: list indices must be integers or slices, not str
+2025-01-17 17:39:31 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 17:49:03 - core.graph - ERROR - Error in planning node: list indices must be integers or slices, not str
+2025-01-17 17:49:03 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 20:35:16 - core.graph - ERROR - Error in planning node: local variable 'positions' referenced before assignment
+2025-01-17 20:35:49 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 20:36:04 - core.graph - ERROR - Error in planning node: local variable 'positions' referenced before assignment
+2025-01-17 21:05:33 - core.graph - ERROR - Error in planning node: local variable 'i' referenced before assignment
+2025-01-17 21:05:33 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 21:22:43 - core.graph - ERROR - Error in planning node: 'PlanningAgent' object has no attribute 'position_bits'
+2025-01-17 21:22:43 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 22:32:18 - core.graph - ERROR - Error in planning node: '>' not supported between instances of 'list' and 'int'
+2025-01-17 22:32:18 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 22:32:44 - core.graph - ERROR - Error in planning node: '>' not supported between instances of 'list' and 'int'
+2025-01-17 22:32:44 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 22:32:48 - core.graph - ERROR - Error in planning node: '>' not supported between instances of 'list' and 'int'
+2025-01-17 22:32:48 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 22:32:52 - core.graph - ERROR - Error in planning node: '>' not supported between instances of 'list' and 'int'
+2025-01-17 22:32:52 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 22:32:55 - core.graph - ERROR - Error in planning node: '>' not supported between instances of 'list' and 'int'
+2025-01-17 22:32:55 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 22:32:59 - core.graph - ERROR - Error in planning node: '>' not supported between instances of 'list' and 'int'
+2025-01-17 22:32:59 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 22:33:02 - core.graph - ERROR - Error in planning node: '>' not supported between instances of 'list' and 'int'
+2025-01-17 22:33:02 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 22:33:05 - core.graph - ERROR - Error in planning node: '>' not supported between instances of 'list' and 'int'
+2025-01-17 22:33:05 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 22:33:07 - core.graph - ERROR - Error in planning node: '>' not supported between instances of 'list' and 'int'
+2025-01-17 22:33:07 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 22:33:11 - core.graph - ERROR - Error in planning node: '>' not supported between instances of 'list' and 'int'
+2025-01-17 22:33:11 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 22:33:15 - core.graph - ERROR - Error in planning node: '>' not supported between instances of 'list' and 'int'
+2025-01-17 22:33:15 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 22:33:19 - core.graph - ERROR - Error in planning node: '>' not supported between instances of 'list' and 'int'
+2025-01-17 22:33:19 - core.graph - ERROR - Error in verification node: 'squares_completed'
+2025-01-17 22:33:19 - core.graph - ERROR - Error running workflow: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT

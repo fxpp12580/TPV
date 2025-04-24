@@ -1,0 +1,6 @@
+2025-01-20 00:12:21 - __main__ - ERROR - Error running workflow: 'AddableValuesDict' object has no attribute 'model_dump'
+2025-01-20 00:32:55 - __main__ - ERROR - Error running workflow: 'AddableValuesDict' object has no attribute 'model_dump'
+2025-01-20 09:26:32 - __main__ - ERROR - Error running workflow: 'AddableValuesDict' object has no attribute 'model_dump'
+2025-01-20 09:39:02 - __main__ - ERROR - Error running workflow: 'AddableValuesDict' object has no attribute 'model_dump'
+2025-01-20 09:44:24 - __main__ - ERROR - Error in workflow: `st.write_stream` expects a generator or stream-like object as input not <class 'str'>. Please use `st.write` instead for this data type.
+2025-01-20 09:46:23 - __main__ - ERROR - Error in workflow: `st.write_stream` expects a generator or stream-like object as input not <class 'str'>. Please use `st.write` instead for this data type.
